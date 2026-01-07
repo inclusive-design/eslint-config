@@ -1,0 +1,6 @@
+.github
+.husky
+.zed
+.release-please-manifest.json
+release-please-config.json
+renovate.json
