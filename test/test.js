@@ -7,9 +7,8 @@ import {readFile} from 'node:fs/promises';
 const hasRule = (errors, ruleId) => errors.some(error => error.ruleId === ruleId);
 
 /**
- *
- * @param string
- * @param config
+ * @param {string} string The string against which ESLint should be run.
+ * @param {object} config The ESLint config to use.
  */
 async function runEslint(string, config) {
 	const eslint = new ESLint({
