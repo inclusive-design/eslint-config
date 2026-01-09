@@ -8,7 +8,7 @@
 		"lint": "run-s -l lint:*",
 		"lint:markdown": "markdownlint-cli2 \"**/*.md\"",
 		"lint:scripts": "eslint",
-		"test": "node --test",
+		"test": "node --test test/main.test.js",
 		"prepare": "husky"
 	},
 	"repository": {
