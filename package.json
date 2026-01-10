@@ -6,8 +6,8 @@
 	"type": "module",
 	"scripts": {
 		"lint": "run-s -l lint:*",
-		"lint:markdown": "markdownlint-cli2 \"**/*.md\"",
-		"lint:scripts": "eslint",
+		"lint:markdownlint": "markdownlint-cli2 \"**/*.md\"",
+		"lint:eslint": "eslint",
 		"test": "node --test test/main.test.js",
 		"prepare": "husky"
 	},
@@ -28,6 +28,7 @@
 	},
 	"homepage": "https://github.com/inclusive-design/eslint-config#readme",
 	"dependencies": {
+		"@eslint/json": "^0.14.0",
 		"@eslint/markdown": "^7.5.1",
 		"eslint": "^9.39.2",
 		"eslint-config-xo": "^0.49.0",
