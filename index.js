@@ -7,7 +7,7 @@ import json from '@eslint/json';
 
 export default defineConfig([
 	{
-		files: ['**/*.js'],
+		files: ['**/*.js', '**/*.cjs', '**/*.mjs'],
 		extends: [
 			xoBrowser,
 			eslintPluginUnicorn.configs.recommended,
