@@ -33,7 +33,7 @@
 		"eslint": "^9.39.2",
 		"eslint-config-xo": "^0.49.0",
 		"eslint-plugin-jsdoc": "^62.0.0",
-		"eslint-plugin-unicorn": "^62.0.0"
+		"eslint-plugin-unicorn": "^63.0.0"
 	},
 	"devDependencies": {
 		"@commitlint/cli": "^20.3.0",
