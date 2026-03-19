@@ -28,7 +28,7 @@
 	},
 	"homepage": "https://github.com/inclusive-design/eslint-config#readme",
 	"dependencies": {
-		"@eslint/json": "^0.14.0",
+		"@eslint/json": "^1.0.0",
 		"@eslint/markdown": "^7.5.1",
 		"eslint": "^9.39.2",
 		"eslint-config-xo": "^0.49.0",
