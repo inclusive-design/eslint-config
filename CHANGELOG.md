@@ -1,5 +1,20 @@
 # Changelog
 
+## [0.3.0](https://github.com/inclusive-design/eslint-config/compare/v0.2.0...v0.3.0) (2026-03-19)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @eslint/json to v1 ([#27](https://github.com/inclusive-design/eslint-config/issues/27)) ([3315838](https://github.com/inclusive-design/eslint-config/commit/331583838c5b0fee0cd48478ca25d90f783658fb))
+* **deps:** update dependency eslint to v10 ([#29](https://github.com/inclusive-design/eslint-config/issues/29)) ([6489785](https://github.com/inclusive-design/eslint-config/commit/64897853bbf820396f300b1e7ea29d02570caf2c))
+* **deps:** update dependency eslint-config-xo to ^0.50.0 ([#30](https://github.com/inclusive-design/eslint-config/issues/30)) ([5da17e9](https://github.com/inclusive-design/eslint-config/commit/5da17e92afeadcf2deec44fb9ed531f924b60033))
+* **deps:** update dependency eslint-plugin-unicorn to v63 ([#31](https://github.com/inclusive-design/eslint-config/issues/31)) ([be31875](https://github.com/inclusive-design/eslint-config/commit/be31875716da9b437bb0439af3472221e0b041ba))
+
+
+### Miscellaneous Chores
+
+* **release:** release 0.3.0 ([#36](https://github.com/inclusive-design/eslint-config/issues/36)) ([914cf83](https://github.com/inclusive-design/eslint-config/commit/914cf83828c0f86a94f4269dcd94ac45c617e4c3))
+
 ## [0.2.0](https://github.com/inclusive-design/eslint-config/compare/v0.1.1...v0.2.0) (2026-01-10)
 
 
