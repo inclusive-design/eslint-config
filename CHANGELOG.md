@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.3.1](https://github.com/inclusive-design/eslint-config/compare/v0.3.0...v0.3.1) (2026-04-28)
+
+
+### Bug Fixes
+
+* **deps:** update dependency @eslint/markdown to v8 ([#42](https://github.com/inclusive-design/eslint-config/issues/42)) ([dd678da](https://github.com/inclusive-design/eslint-config/commit/dd678da146486232626aec6ae150d92e263ea0f5))
+* **deps:** update dependency eslint-plugin-unicorn to v64 ([#43](https://github.com/inclusive-design/eslint-config/issues/43)) ([78ac875](https://github.com/inclusive-design/eslint-config/commit/78ac8750d22699ad0e3f982387c4fe1d23019d81))
+* **deps:** update minor updates ([#47](https://github.com/inclusive-design/eslint-config/issues/47)) ([ab908d0](https://github.com/inclusive-design/eslint-config/commit/ab908d05dd0ca7ab7e2089fa81904b4cc7c1dba6))
+
 ## [0.3.0](https://github.com/inclusive-design/eslint-config/compare/v0.2.0...v0.3.0) (2026-03-19)
 
 
