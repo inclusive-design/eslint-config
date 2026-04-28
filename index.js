@@ -1,6 +1,5 @@
 import {defineConfig} from 'eslint/config';
-import xoBrowser from 'eslint-config-xo/browser';
-import eslintPluginUnicorn from 'eslint-plugin-unicorn';
+import eslintConfigXo from 'eslint-config-xo';
 import jsdoc from 'eslint-plugin-jsdoc';
 import markdown from '@eslint/markdown';
 import json from '@eslint/json';
@@ -9,8 +8,7 @@ export default defineConfig([
 	{
 		files: ['**/*.js', '**/*.cjs', '**/*.mjs'],
 		extends: [
-			xoBrowser,
-			eslintPluginUnicorn.configs.recommended,
+			eslintConfigXo({browser: true}),
 			jsdoc.configs['flat/recommended'],
 		],
 	},
