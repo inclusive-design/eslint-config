@@ -29,7 +29,7 @@
 	"homepage": "https://github.com/inclusive-design/eslint-config#readme",
 	"dependencies": {
 		"@eslint/json": "^1.0.0",
-		"@eslint/markdown": "^7.5.1",
+		"@eslint/markdown": "^8.0.0",
 		"eslint": "^10.0.0",
 		"eslint-config-xo": "^0.50.0",
 		"eslint-plugin-jsdoc": "^62.0.0",
