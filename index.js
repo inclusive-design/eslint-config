@@ -11,6 +11,13 @@ export default defineConfig([
 			eslintConfigXo({browser: true}),
 			jsdoc.configs['flat/recommended'],
 		],
+		rules: {
+			'import-x/no-anonymous-default-export': ['error', {
+				allowArray: true,
+				allowLiteral: true,
+				allowObject: true,
+			}],
+		},
 	},
 	{
 		files: ['**/*.json'],
