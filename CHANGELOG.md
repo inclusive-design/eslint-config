@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/inclusive-design/eslint-config/compare/v0.3.1...v0.4.0) (2026-04-28)
+
+
+### Features
+
+* allow anonymous default export of arrays and objects ([#49](https://github.com/inclusive-design/eslint-config/issues/49)) ([6cb565d](https://github.com/inclusive-design/eslint-config/commit/6cb565da5248b57ef27a90e974742a4899ae5423))
+
 ## [0.3.1](https://github.com/inclusive-design/eslint-config/compare/v0.3.0...v0.3.1) (2026-04-28)
 
 
